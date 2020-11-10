@@ -1,4 +1,4 @@
-[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/rudzyl/6-wrong-path/blob/master/LICENSE)	
+[![LICENSE](https://github.com/rudzyl/6-wrong-path/blob/master/LICENSE)](https://github.com/rudzyl/6-wrong-path/blob/master/LICENSE)	
 	
 ![Gluten Status](https://img.shields.io/badge/Gluten-Free-green.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
