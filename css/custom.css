@@ -1,19 +1,37 @@
+
 body {
+    background-color: cornflowerblue;
 }
     .container {
+        display: inline-block;
+        width: 800px;
+        margin-top: 100px;
+        margin-left: calc((100% - 800px) / 2);
     }
         .left-column {
+            display: inline-block;
+            width: 40%;
+            background-color: blue;
+            float: left;
+            margin-top: 20px;
         }
             .bottomn-link {
             }
                 .link {
                 }
         .right-column {
+            display: inline-block;
+            width: 60%;
+            background-color: white;
+            float: left;
+            padding: 60px;
         }
             .page-title {
             }
-            .text {
+            p{
             }
+                .text {
+                }
             .btn {
             }
         
