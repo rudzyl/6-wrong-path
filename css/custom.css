@@ -13,11 +13,17 @@ body {
             width: 40%;
             background-color: blue;
             float: left;
+            padding: 40px;
+            padding-bottom: 20px;
             margin-top: 20px;
         }
             .bottomn-link {
+                display: inline-block;
+                width: 100%;
+                color: white;
             }
                 .link {
+                    color: white;
                 }
         .right-column {
             display: inline-block;
@@ -33,5 +39,14 @@ body {
                 .text {
                 }
             .btn {
+                display: inline-block;
+                padding: 10px;
+                padding-left: 40px;
+                padding-right: 40px;
+                line-height: 20px;
+                font-size: 18px;
+                border-radius: 20px;
+                background-color: #9B59FA;
+                color: white;
             }
         
